@@ -1,0 +1,11 @@
+artifact_location: file:///D:/Machine Learning/Neural Networks for Handwritten Digit
+  Recognition/mlruns/925979153695088507/models/m-be8efcaef0844657a27bfe772b2a0266/artifacts
+creation_timestamp: 1780257536061
+experiment_id: '925979153695088507'
+last_updated_timestamp: 1780257544573
+model_id: m-be8efcaef0844657a27bfe772b2a0266
+model_type: null
+name: digit_recognition_model
+source_run_id: 146c84bf2b754ffeb2e2ee00329d87fa
+status: 2
+status_message: null

@@ -1,0 +1,22 @@
+artifact_path: file:///D:/Machine Learning/Neural Networks for Handwritten Digit Recognition/mlruns/925979153695088507/models/m-be8efcaef0844657a27bfe772b2a0266/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.0
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.21.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.12.0
+model_id: m-be8efcaef0844657a27bfe772b2a0266
+model_size_bytes: 1340477
+model_uuid: m-be8efcaef0844657a27bfe772b2a0266
+prompts: null
+run_id: 146c84bf2b754ffeb2e2ee00329d87fa
+utc_time_created: '2026-05-31 19:58:56.135676'

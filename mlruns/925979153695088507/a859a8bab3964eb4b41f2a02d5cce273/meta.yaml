@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Machine Learning/Neural Networks for Handwritten Digit Recognition/mlruns/925979153695088507/a859a8bab3964eb4b41f2a02d5cce273/artifacts
+end_time: 1780326782649
+entry_point_name: ''
+experiment_id: '925979153695088507'
+lifecycle_stage: active
+run_id: a859a8bab3964eb4b41f2a02d5cce273
+run_name: dense-neural-network-mnist
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780326588302
+status: 3
+tags: []
+user_id: ranul

@@ -1,0 +1,9 @@
+artifact_location: file:///D:/Machine Learning/Neural Networks for Handwritten Digit
+  Recognition/mlruns/925979153695088507
+creation_time: 1780257500159
+experiment_id: '925979153695088507'
+last_update_time: 1780257500159
+lifecycle_stage: active
+name: Handwritten Digit Recognition
+trace_location: null
+workspace: default
