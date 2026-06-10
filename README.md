@@ -350,17 +350,19 @@ The results may change slightly depending on training runs, random initializatio
 
 ### MLflow Run Overview
 
-
+<img width="1919" height="1079" alt="Screenshot 2026-06-01 202725" src="https://github.com/user-attachments/assets/724371fa-bc26-4902-8903-32fde82fcbb9" />
 
 ### MLflow Model Metrics
 
-
+<img width="1909" height="1069" alt="Screenshot 2026-06-01 202457" src="https://github.com/user-attachments/assets/5b2bafc3-296a-424e-a380-f48f44def06e" />
 
 ### FastAPI Swagger Upload
 
-
+<img width="1911" height="1057" alt="Screenshot 2026-06-01 202401" src="https://github.com/user-attachments/assets/eb58842b-883f-4c4c-9bbb-1351f615a1be" />
 
 ### FastAPI Prediction Response
+
+<img width="1910" height="1073" alt="Screenshot 2026-06-01 202422" src="https://github.com/user-attachments/assets/f86f6b9d-975d-4a74-a793-a39c097894c3" />
 
 ---
 
