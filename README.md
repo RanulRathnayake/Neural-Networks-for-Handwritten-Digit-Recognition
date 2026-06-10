@@ -364,6 +364,10 @@ The results may change slightly depending on training runs, random initializatio
 
 <img width="1910" height="1073" alt="Screenshot 2026-06-01 202422" src="https://github.com/user-attachments/assets/f86f6b9d-975d-4a74-a793-a39c097894c3" />
 
+### Test Handwritten Digit image
+
+<img width="256" height="181" alt="sample_digit" src="https://github.com/user-attachments/assets/73977e58-3a95-4a87-8b9c-1c688eef51df" />
+
 ---
 
 ## Author
