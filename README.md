@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using Neural Networks and MLflow
+# Handwritten Digit Recognition using Neural Networks - MLflow
 
 This project is an end-to-end **Handwritten Digit Recognition** system built using **TensorFlow/Keras**, **MLflow**, and **FastAPI**.
 
