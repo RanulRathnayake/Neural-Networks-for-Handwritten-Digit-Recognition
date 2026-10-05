@@ -44,9 +44,6 @@ handwritten-digit-recognition/
 ├── app/
 │   └── api.py
 │
-├── artifacts/
-│   ├── model_summary.txt
-│   └── model_architecture.json
 │
 ├── data/
 │   └── raw/
